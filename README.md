@@ -1,2 +1,2 @@
 # clean-bing
-a uBlock Origin filter to make Bing home and search a lot more clean
+a uBlock Origin filter that makes Bing home and search cleaner
